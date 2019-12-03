@@ -1,8 +1,8 @@
-# AlaSQLFunc additional Alasql nodenode
+# AlaSQLFunc additional complimentary Alasql node
 
 ## node-red-contrib-alasqlfunc
 
-This additional  Node-red `alasql` node lets you use msg.query to send in query commands like query/insert/update
+This additional  node-red `alasql` node lets you use msg.query to send in query commands like query/insert/update
 
 ## Eg: 
 
