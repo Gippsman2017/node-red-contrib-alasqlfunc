@@ -10,12 +10,7 @@ msg.query='select * from abc where Id="'+msg.payload.response.id+'"';
 
 or
 
-var a = 'wombat';
-var b = 'platypus';
-msg.query='insert into abc values ("'+a+'","'+b,+'")';
-
-![xkcd](https://cloud.githubusercontent.com/assets/1063454/13614823/999e9548-e572-11e5-9661-57a06e8f3fa4.png)
-
-
-
-
+var a = 'wombat';\n
+var b = 'platypus';\n
+msg.query='insert into abc values ("'+a+'","'+b,+'")';\n
+\n
