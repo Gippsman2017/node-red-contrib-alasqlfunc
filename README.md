@@ -2,7 +2,7 @@
 
 ## node-red-contrib-alasqlfunc
 
-This additional  Node-red `alasql` node lets you use msg.query as the query/insert/update
+This additional  Node-red `alasql` node lets you use msg.query to send in query commands like query/insert/update
 
 ## Eg: 
 
