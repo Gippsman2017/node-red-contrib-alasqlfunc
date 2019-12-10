@@ -1,7 +1,7 @@
 {
   "bundleDependencies": [],
   "dependencies": {
-    "alasql": "^0.5.1"
+    "alasql-nr": "^0.5.2"
   },
   "deprecated": false,
   "description": "An additional alasql function..",
@@ -22,5 +22,5 @@
     "type": "git",
     "url": "git+https://github.com/Gippsman2017/node-red-contrib-alasqlfunc"
   },
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
