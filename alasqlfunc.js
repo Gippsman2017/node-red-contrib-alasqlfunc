@@ -1,5 +1,5 @@
 module.exports = function (RED) {
-    var alasql = require('alasql');
+    var alasql = require('alasql-nr');
 
     function AlasqlFuncNodeIn(config) {
         RED.nodes.createNode(this, config);
